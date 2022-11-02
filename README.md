@@ -15,8 +15,11 @@ The ride share data differs notably across the 3 city types:
 * The Total Fares collected in Urban cities was 9 times more than that in Rural cities.
 * The average fare per ride was most expensive in Rural cities and least expensive in Urban cities.
 * The average fare per driver in Rural cities was more than 3 times that of the average fare in Urban cities.
+* 
 ![PyBer_df_summary](https://user-images.githubusercontent.com/100387078/161081721-d5c903f2-8466-4fbe-b492-bed8b8ccb296.png)
+
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/100387078/161081784-33dc3464-25e6-43c5-a580-1451c058b6ce.png)
+
 
 ## Summary
 
