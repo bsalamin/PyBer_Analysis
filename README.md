@@ -9,7 +9,7 @@ The prescribed process for this analysis was to look at ride-sharing data by cit
 
 ## Results
 
-The ride share data differs notably across the 3 city types:
+The ride share data differs notably across the 3 city types: 
 * There were barely more than 100 total rides in Rural cities, while there was 600 more in Suburban cities and a total of 1,625 rides in Urban cities.
 * Total Urban drivers was over 2,400, while the Suburban and Rural driver count was less than 500 and less than 80, respectively.
 * The Total Fares collected in Urban cities was 9 times more than that in Rural cities.
